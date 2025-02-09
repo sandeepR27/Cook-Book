@@ -37,3 +37,15 @@
   - Rinse rice.  
   - Boil water with salt, add rice, cover, and reduce heat.  
   - Simmer for 15-20 mins.
+
+
+### 7. **Fries**  
+- **Ingredients:** Potatoes, olive oil, salt.  
+- **Instructions:**  
+  - Peel and cut potatoes into thin strips.  
+  - Heat oil in a pan or preheat oven to 425°F (220°C).  
+  - Toss potatoes in olive oil and salt.  
+  - Fry in hot oil for 3-5 mins or bake for 25-30 mins, flipping halfway.  
+  - Serve hot! 
+
+Simple and crispy!
