@@ -1,0 +1,39 @@
+### 1. **Pastries**  
+- **Ingredients:** Puff pastry sheets, your choice of filling (chocolate, fruit, cheese).  
+- **Instructions:**  
+  - Preheat oven to 400°F (200°C).  
+  - Roll out puff pastry, add filling, fold, and seal edges.  
+  - Bake for 15-20 mins until golden.
+
+### 2. **Brownie**  
+- **Ingredients:** 1 cup sugar, 1/2 cup butter, 1/3 cup cocoa powder, 2 eggs, 1/2 cup flour.  
+- **Instructions:**  
+  - Preheat oven to 350°F (175°C).  
+  - Mix ingredients in order.  
+  - Pour into a greased pan and bake for 20-25 mins.
+
+### 3. **Pasta**  
+- **Ingredients:** Pasta, olive oil, garlic, tomato sauce, salt.  
+- **Instructions:**  
+  - Cook pasta.  
+  - Sauté garlic in oil, add tomato sauce, and simmer.  
+  - Mix cooked pasta with sauce.
+
+### 4. **Salad**  
+- **Ingredients:** Lettuce, cherry tomatoes, cucumber, olive oil, vinegar, salt.  
+- **Instructions:**  
+  - Chop veggies, toss in a bowl.  
+  - Drizzle with olive oil, vinegar, and sprinkle with salt.
+
+### 5. **Soup**  
+- **Ingredients:** Carrot, onion, garlic, broth, salt.  
+- **Instructions:**  
+  - Sauté chopped onion, garlic, and carrot.  
+  - Add broth, simmer for 20 mins, blend (optional), season with salt.
+
+### 6. **Steamed Rice**  
+- **Ingredients:** 1 cup rice, 2 cups water, salt.  
+- **Instructions:**  
+  - Rinse rice.  
+  - Boil water with salt, add rice, cover, and reduce heat.  
+  - Simmer for 15-20 mins.
