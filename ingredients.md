@@ -48,4 +48,4 @@
   - Fry in hot oil for 3-5 mins or bake for 25-30 mins, flipping halfway.  
   - Serve hot! 
 
-Simple and crispy!
+ 
