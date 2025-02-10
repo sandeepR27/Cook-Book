@@ -47,5 +47,11 @@
   - Toss potatoes in olive oil and salt.  
   - Fry in hot oil for 3-5 mins or bake for 25-30 mins, flipping halfway.  
   - Serve hot! 
+### 8. **Orange juice**  
+- **Ingredients:** Oranges,sugar,salt  
+- **Instructions:**  
+  - Peel and cut the oranges add to the blender.
+  - add sugar and pinch of salt
+  - blend well!
 
 Simple and crispy!
