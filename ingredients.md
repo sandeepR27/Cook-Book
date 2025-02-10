@@ -38,7 +38,6 @@
   - Boil water with salt, add rice, cover, and reduce heat.  
   - Simmer for 15-20 mins.
 
-
 ### 7. **Fries**  
 - **Ingredients:** Potatoes, olive oil, salt.  
 - **Instructions:**  
@@ -47,5 +46,26 @@
   - Toss potatoes in olive oil and salt.  
   - Fry in hot oil for 3-5 mins or bake for 25-30 mins, flipping halfway.  
   - Serve hot! 
+
+### 8. **Chicken Biryani**  
+- **Ingredients:** Basmati rice, chicken, yogurt, spices (cumin, coriander, saffron).  
+- **Instructions:**  
+  - Marinate chicken in yogurt and spices.  
+  - Layer marinated chicken with partially cooked rice and cook until done.  
+  - Serve with raita.
+
+### 9. **Chicken Starters**  
+- **Ingredients:** Chicken breast, breadcrumbs, spices (paprika, garlic powder).  
+- **Instructions:**  
+  - Coat chicken pieces in spices and breadcrumbs.  
+  - Fry or bake until golden and cooked through.  
+  - Serve with dipping sauce.
+
+### 10. **Choco-Lava**  
+- **Ingredients:** Dark chocolate, butter, sugar, eggs, flour.  
+- **Instructions:**  
+  - Melt chocolate and butter together.  
+  - Mix in sugar, eggs, and flour, then pour into greased ramekins.  
+  - Bake until edges are set but center is still gooey.
 
 Simple and crispy!
