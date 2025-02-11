@@ -1,6 +1,7 @@
-### 3. **Pasta**  
-- **Ingredients:** Pasta, olive oil, garlic, tomato sauce, salt.  
+
+### **Soup**  
+- **Ingredients:** Carrot, onion, garlic, broth, salt.  
 - **Instructions:**  
-  - Cook pasta.  
-  - Sauté garlic in oil, add tomato sauce, and simmer.  
-  - Mix cooked pasta with sauce.
+  - Sauté chopped onion, garlic, and carrot.  
+  - Add broth, simmer for 20 mins, blend (optional), season with salt.
+
