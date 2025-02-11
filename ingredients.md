@@ -74,5 +74,11 @@
   - Mix in sugar, eggs, and flour, then pour into greased ramekins.  
   - Bake until edges are set but center is still gooey.
 
+### 11. **Coffee**
+- **Ingredients:** Milk, Coffee powder, sugar.
+- **Instructions:**
+  - Boil the milk.
+  - Add sugar and coffee powder in a cup.
+  - Pour the boiled milk in the cup and mix. 
 
  
